@@ -5,7 +5,7 @@ int main()	// Setting up main function of the script.
 {
 
 // Lines 8-10 enable user of script to enter integer of their choice interactively upon running the excutable file. 
-	
+// Added this line to implement second commit.
 float number;
 printf("Enter your input number: ");
 scanf("%f",&number);
